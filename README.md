@@ -34,14 +34,14 @@ app 项目主模块
 
 
 #### 项目所用技术
-Flask：Python Web方向一个主流模块
-Flask-RESTFUL：Flask 扩展，它添加了快速构建 REST APIs 的支持
-Flask-SQLAlchemey：ORM插件
-Flask-Script：使Flask应用可以通过命令行来运行服务器
-Flask-Migrate：数据迁移工具
-flask-restful-swagger：帮助项目生成对应的API文档
+* Flask：Python Web方向一个主流模块
+* Flask-RESTFUL：Flask 扩展，它添加了快速构建 REST APIs 的支持
+* Flask-SQLAlchemey：ORM插件
+* Flask-Script：使Flask应用可以通过命令行来运行服务器
+* Flask-Migrate：数据迁移工具
+* flask-restful-swagger：帮助项目生成对应的API文档
 
 #### 参考资料
-[Django和Flask这两个框架在设计上各方面有什么优缺点？](https://www.zhihu.com/question/41564604)
-[flask-restful中文](http://www.pythondoc.com/Flask-RESTful/)
-[flask-sqlchemey中文](http://www.pythondoc.com/flask-sqlalchemy/)
+* [Django和Flask这两个框架在设计上各方面有什么优缺点？](https://www.zhihu.com/question/41564604)
+* [flask-restful中文](http://www.pythondoc.com/Flask-RESTful/)
+* [flask-sqlchemey中文](http://www.pythondoc.com/flask-sqlalchemy/)
